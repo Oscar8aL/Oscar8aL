@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oscar8aL
-- 👀 I’m interested in Machine Learning and Ethical Hacking, also I love to work with 3D models
-- 🌱 I’m currently learning IA with python and 3D modeling with Blender
+- 👀 I’m interested in Machine Learning, Artificial Intelligence, also I love to work with 3D models
+- 🌱 I’m currently learning IA with python
 - 💞️ I’m looking to collaborate on Nintendo doing videogames or do high quality secure software
 - 📫 How to reach me i.ochoalopezoscar@gmail.com
